@@ -1,0 +1,42 @@
+/* Class = "UILabel"; text = "Maximum growth (cm)"; ObjectID = "1HR-4l-FfE"; */
+"1HR-4l-FfE.text" = "الطول الأقصى - سم";
+
+/* Class = "UIButton"; normalTitle = "Add Plant"; ObjectID = "2P8-EI-9Kk"; */
+"2P8-EI-9Kk.normalTitle" = "أضف النبتة";
+
+/* Class = "UILabel"; text = "Common Name"; ObjectID = "7FN-TB-XEB"; */
+"7FN-TB-XEB.text" = "الإسم الشائع";
+
+/* Class = "UILabel"; text = "Common Name"; ObjectID = "9kR-2V-BKz"; */
+"9kR-2V-BKz.text" = "الإسم الشائع";
+
+/* Class = "UINavigationItem"; title = "Open Plant Wiki"; ObjectID = "cUh-Uh-9YW"; */
+"cUh-Uh-9YW.title" = "موسوعة النباتات المفتوحة";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "FPH-Sh-q7i"; */
+"FPH-Sh-q7i.text" = "الشرح";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "lLO-Ko-C9e"; */
+"lLO-Ko-C9e.title" = "رجوع";
+
+/* Class = "UILabel"; text = "Scientific Name"; ObjectID = "oqb-XD-2DV"; */
+"oqb-XD-2DV.text" = "الإسم العلمي";
+
+/* Class = "UILabel"; text = "Maximum length (cm)"; ObjectID = "PWf-7f-yvn"; */
+"PWf-7f-yvn.text" = "الطول الأقصى - سم";
+
+/* Class = "UILabel"; text = "Common name"; ObjectID = "vIf-6Y-92r"; */
+"vIf-6Y-92r.text" = "الإسم الشائع";
+
+/* Class = "UILabel"; text = "Scientific Name"; ObjectID = "vSi-G0-M6W"; */
+"vSi-G0-M6W.text" = "الإسم العلمي";
+
+/* Class = "UILabel"; text = "Scientific name"; ObjectID = "WMA-KZ-CKY"; */
+"WMA-KZ-CKY.text" = "الإسم العلمي";
+
+/* Class = "UIViewController"; title = "New Plant"; ObjectID = "ymI-cV-qmF"; */
+"ymI-cV-qmF.title" = "نبتة جديدة";
+
+/* Class = "UILabel"; text = "99999"; ObjectID = "zGr-O0-NxX"; */
+"zGr-O0-NxX.text" = "99999";
+
